@@ -1,0 +1,13 @@
+p{
+    margin: 0;
+}
+
+.todo-li{
+    align-items: center;
+    display: flex !important;
+    justify-content: space-between;
+}
+
+.complete{
+    text-decoration: line-through;
+}

@@ -19,7 +19,7 @@ export const MemoHook = () => {
 
   return (
     <div style={{padding: '70px'}} >
-        <h1> MemoHook </h1>
+        <h1> MemoHook </h1> 
         <h3> Counter <small > {counter} </small> </h3>
         <hr />
 
