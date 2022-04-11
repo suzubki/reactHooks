@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MultipleCustomHooks ... snapshot 1`] = `
+<div
+  style={
+    Object {
+      "padding": "70px",
+    }
+  }
+>
+  <h1>
+    Breaking bad quotes
+  </h1>
+  <hr />
+  <div
+    className="alert alert-info text-center"
+  >
+    Loading...
+  </div>
+  <button
+    className="btn btn-primary"
+    onClick={[Function]}
+  >
+    +1
+  </button>
+</div>
+`;

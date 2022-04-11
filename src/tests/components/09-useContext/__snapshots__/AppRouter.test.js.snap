@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AppRouter /> should disply 1`] = `
+<div>
+  Array [
+    <nav
+      className="navbar navbar-expand-lg navbar-dark bg-dark"
+    >
+      <div
+        className="container-fluid"
+      >
+        <div
+          className="collapse navbar-collapse"
+          id="navbarNav"
+        >
+          <ul
+            className="navbar-nav"
+          >
+            <li
+              className="nav-item"
+            >
+              <a
+                aria-current="page"
+                className="nav-link text-white active"
+                href="/"
+                onClick={[Function]}
+              >
+                HomeScreen
+              </a>
+            </li>
+            <li
+              className="nav-item"
+            >
+              <a
+                className="nav-link text-white"
+                href="/about"
+                onClick={[Function]}
+              >
+                AboutScreen
+              </a>
+            </li>
+            <li
+              className="nav-item"
+            >
+              <a
+                className="nav-link text-white"
+                href="/login"
+                onClick={[Function]}
+              >
+                LoginScreen
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>,
+    <div>
+      <h1>
+        HomeScreen 
+      </h1>
+      <hr />
+      <pre>
+        {
+   "name": "user",
+   "email": "user@example.com"
+}
+      </pre>
+    </div>,
+  ]
+</div>
+`;
